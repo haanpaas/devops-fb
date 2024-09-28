@@ -1,4 +1,4 @@
-package com.arcada.devops.haanpaas.assgn3;
+package com.arcada.devops.haanpaas.app;
 
 import java.util.HashMap;
 
